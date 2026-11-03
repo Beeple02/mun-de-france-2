@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mundefrance.fr/sitemap.xml
